@@ -6,4 +6,4 @@
 
 Under development! 
 
-Made with CodeBlocks 20.03 in 32 bit (x86) 
+Made with CodeBlocks 20.03 in 32 bit (x86) windows 7
