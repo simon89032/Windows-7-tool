@@ -6,4 +6,7 @@
 
 Under development! 
 
+Main branch not stable!
+First release will be soon
+
 Made with CodeBlocks 20.03 in 32 bit (x86) windows 7
