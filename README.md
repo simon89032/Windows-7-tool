@@ -1,14 +1,21 @@
 # Windows-7-tool
 ![GitHub all releases](https://img.shields.io/github/downloads/simon89032/Windows-7-tool/total?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/simon89032/Windows-7-tool)
-
+	<a href="#changelog">
+		<img src="https://img.shields.io/badge/stability-stable-green.svg" alt="Status">
+	</a>
+ 	<a href="#changelog">
+		<img src="https://img.shields.io/badge/release-v0.1-blue.svg" alt="Version">
+	</a>
+ 
 Under development! 
 
 Main branch not stable!
-Release Date before 08.03.2021
-Made with CodeBlocks 20.03 in 32 bit (x86) windows 7
+
+Made with Visual Studio 2019 64 bit (x64) windows 7
+
+Warning! I am not responsible for any problem caused by using this program. 
 
 TODO:
- 
- * Compatible with 64 bit win 7
+ * Windows 8, 8.1, 10 and 11 versions ( xp and vista and under are too ancient )
 
