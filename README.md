@@ -15,4 +15,6 @@ Warning! I am not responsible for any problem caused by using this program. For 
 
 TODO:
  * Windows 8, 8.1, 10 and 11 versions ( xp and vista and under are too ancient )
+ * Less scripts
+ * 32 bit version is required for me as I am using 32 bit os still
 
