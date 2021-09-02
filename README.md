@@ -1,9 +1,9 @@
 # Windows-7-tool
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/simon89032/Windows-7-tool)
-<img src="https://img.shields.io/badge/release-v0.1-blue.svg" alt="Version">
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/simon89032/Windows-7-tool?color=blueviolet)
+![GitHub release](https://img.shields.io/github/v/release/simon89032/Windows-7-tool?include_prereleases)
+![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/simon89032/Windows-7-tool?color=critical)
 ![GitHub](https://img.shields.io/github/license/simon89032/Windows-7-tool)
-<img src="https://img.shields.io/badge/stability-stable-green.svg" alt="Status">
-![GitHub all releases](https://img.shields.io/github/downloads/simon89032/Windows-7-tool/total)
+[![stability-unstable](https://img.shields.io/badge/stability-unstable-yellow.svg)](https://github.com/emersion/stability-badges#unstable)
 
 Warning! The autoeverything.bat script is not yet done. Don't run it!
 The pre releases are more stable. Use them
